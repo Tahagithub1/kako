@@ -1,0 +1,125 @@
+    <?php
+    $id = $_GET['id'];
+// var_dump($key->name);
+if(isset($id)){
+  $result = new Admin();
+ $show = $result->ShowId($id);
+
+ var_dump($show->id);
+ var_dump($show->name);
+//  if($show->id = $id){
+ ?>
+ <li class="table-row h-auto animated bounceInUp">
+      <div class="col col-1" data-label="نام"><?= $show->name ?></div>
+      <div class="col col-2" data-label="محصولات"><?= $show->name_orders ?></div>
+      <div class="col col-3" data-label="شماره تماس"><?= $show->mobile ?></div>
+      <div class="col col-4"  data-label="ادرس کلینیک/پت شاپ"><?= $show->name_clinic ?></div>
+      <div class="col col-6" data-label="تاریخ"><?= $show->create_at ?></div>
+      <!-- <a href="#" class="aa col col-5 bg-[#0E91E3] rounded-xl py-2 text-sm text-white">حذف</a> -->
+    
+      <a  class="w-[100px] m-auto text-xs bg-[#0E91E3] py-2 p-1 rounded-xl text-white text-center" href="?remove-id=<?= $show->id ?>"> remove</a>
+      
+    
+    </li>
+ <?php
+
+ }
+
+// if(isset($_GET['remove-id'])){
+//   echo "swd";
+//   global $id;
+//    $result->Delete_item($id);
+// }
+ // $(document).ready(function(){
+              // $("#is_done").click(function(e){
+              // var idorders = $(this).attr('data-keyid');
+              // $.ajax({
+
+              //           url : "libs_admin/Ajax.php",
+              //           method : "post",
+              //           data :{action: "doneSwitch",id : idorders},
+
+              //           success:function(response){
+              //            if(response == '1'){
+              //             location.reload();
+              //            }else{
+              //             alert(response);
+              //            }
+              //           }
+
+              //           });
+              //   });
+             
+              // });
+        
+
+          //  $(document).ready(function(){
+          //    $('#hiden-Btn').click(function(){
+          //        $('#boxhiden').hide(1000,function(){
+          //         $('#boxhiden').remove('#boxhiden');
+          //         $('#boxhiden').show('#boxshow');
+          //        });
+          //      });
+
+              //  $('#hiden-Btn').click(function(){
+              //   $('#boxshow').show(1000);
+              //  }
+              // );
+
+            // $(document).ready(function(){
+            //   $('#hiden-Btn').on('click',function(){
+            //     var cloneButton = $(this).clone();
+            //     cloneButton.css({position:'absolute',top:$(this).offset().top,left:(this).offset().left});
+            //     $('body').append(cloneButton);
+            //     cloneButton.animate({
+            //       top:$('#boxhiden').offset().top,
+            //       left:$('#boxhiden').offset.left
+            //     },1000,function(){
+            //       $(this).detach().css({position: top , left : 20
+            //       }).appendTo('#boxshow').fadeIn();
+            
+            //     });
+               
+            //   });
+            // });
+
+//             function appendIt() {
+//   var source = document.getElementById("source");
+//   document.getElementById("destination").appendChild(source);
+// }
+
+//  document.querySelectorAll("#items").forEach(item => {
+//    item.addEventListener("click",()=>{
+//      document.querySelector("#result").append(item)
+//   });
+//  });
+
+// let items =
+// document.querySelectorAll("#items")
+// document.querySelectorAll("#Btn").forEach((btn,index)=> {
+//   btn.addEventListener("click",()=>{
+//     document.querySelector("#result").append(items[index])
+//   })
+// })
+
+
+// $(document).ready(function(){
+// var btn = $('#is_done');
+// var result = $('#result');
+// btn.click(function(){
+//          $.ajax({
+//            url : "libs_admin/Ajax.php",
+//            method : "post",
+//            data :{},
+
+//            success:function(response){
+//             result.html(response);
+//            },
+//            error : function(response){
+//             result.html(response);
+//            }
+//       });
+//          });
+//      });
+
+   

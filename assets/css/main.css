@@ -1,0 +1,277 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    :root{
+        --blue_sky : #0E91E3;
+        --blue : #5BC0FF;
+        --blue_little : #c;
+        /* all pages */
+        overflow-x: hidden;
+    }
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: vazir;
+    }
+
+    @font-face {
+        font-family: vazir;
+        src: url(../fonts/Vazir.ttf);
+    }
+
+    /* @font-face {
+        font-family: ziba;
+        src: url(../fonts/B\ Ziba.ttf);
+    } */
+
+    /* home page */
+    #main-page-container{
+        background-image: linear-gradient(to bottom, #8ADAFF 60% , #fff);
+        font-family: vazir;
+    }
+
+    /* header */
+    #sec-right-1 > h1{
+        text-shadow: 2px 2px 5px rgb(2, 36, 78);
+    }
+
+    #sec-search{
+        direction: rtl;
+    }
+
+    #h2-about-us{
+        text-shadow: 5px 5px 25px rgb(16, 20, 24);
+    }
+
+    #description-nav{
+        direction: rtl;
+    }
+
+    /* sugestion */
+    article > img{
+        mix-blend-mode: color-burn;
+    }
+
+    article{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    article > p{
+        text-align: center;
+    }
+
+    /* header */
+    #right-sec > a{
+        transition: all 0.3s linear;
+        animation-name: anime;
+    }
+
+    @keyframes anim {
+        0%{
+            border: none;
+        }
+        100%{
+            border-bottom: 2px solid #0E91E3;
+        }
+    }
+
+    #right-sec > a:hover{
+        
+            --b: 0.1em;   /* the thickness of the line */
+            --c: #1095c1; /* the color */
+            
+            color: #0000;
+            padding-block: var(--b);
+            background: 
+              linear-gradient(var(--c) 50%,#000 0) 0% calc(100% - var(--_p,0%))/100% 200%,
+              linear-gradient(var(--c) 0 0) 0% var(--_p,0%)/var(--_p,0%) var(--b) no-repeat;
+            -webkit-background-clip: text,padding-box;
+                    background-clip: text,padding-box;
+            transition: .3s var(--_s,0s) linear,background-size .3s calc(.3s - var(--_s,0s));
+          }
+          #right-sec > a:hover {
+            --_p: 100%;
+            --_s: .3s;
+        }
+
+        /*  */
+
+        #question > div{
+            cursor: pointer;
+            box-shadow: 4px 4px 35px rgb(194, 194, 194);
+
+        }
+
+        
+        #contact-container{
+            background-image: linear-gradient(to bottom , #fff, #8ADAFF);
+        }
+
+        #admin:hover{
+            box-shadow: 4px 4px 20px #1095c1;
+        }
+    
+        #search:hover{
+            box-shadow: 4px 4px 15px #1095c1;
+            font-weight: bolder;
+        }
+
+        #web-developer:hover{
+            box-shadow: 4px 4px 15px #fff;
+            font-weight: bolder;
+        }
+
+/* about kakooo */
+        #telegram_a:hover{
+            transform: translateY(-5px);
+            box-shadow: 4px 4px 20px #1095c1;
+        }
+        #instagram_a:hover{
+            transform: translateY(-5px);
+            box-shadow: 4px 4px 20px #1095c1;
+        }
+        #call_a:hover{
+            transform: translateY(-5px);
+            box-shadow: 4px 4px 20px #1095c1;
+        }
+        #whatsapp_a:hover{
+            transform: translateY(-5px);
+            box-shadow: 4px 4px 20px #1095c1 !important;
+        }
+
+/* questions */
+        #des-div-1:hover{
+            box-shadow: 4px 4px 30px #5BC0FF;
+            transform: translateX(-10px);
+        }
+        #des-div-2:hover{
+            box-shadow: 4px 4px 30px #5BC0FF;
+            transform: translateX(-10px);
+        }
+        #des-div-3:hover{
+            box-shadow: 4px 4px 30px #5BC0FF;
+            transform: translateX(-10px);
+        }
+        #des-div-4:hover{
+            box-shadow: 4px 4px 30px #5BC0FF;
+            transform: translateX(-10px);
+        }
+
+        /* questions hover */
+        #des-div-1:hover #p-des-1{
+            color:#5BC0FF;
+        }
+        #des-div-2:hover #p-des-2{
+            color:#5BC0FF;
+        }
+        #des-div-3:hover #p-des-3{
+            color:#5BC0FF;
+        }
+        #des-div-4:hover #p-des-4{
+            color:#5BC0FF;
+        }
+
+
+        /* hover box sugestion */
+        #continue_left:hover{
+            box-shadow: 4px 4px 20px #9b9a9a;
+        }
+        #continue_middle:hover{
+            box-shadow: 4px 4px 20px #9b9a9a;
+        }
+        #continue_right:hover{
+            box-shadow: 4px 4px 20px #9b9a9a;
+        }
+
+        /* category */
+        .cat1:hover{
+            transform: translateY(-10px);
+            box-shadow: 5px 5px 20px rgb(138, 137, 137);
+        }
+
+           /* header */
+        #left-sec > a:hover{
+            box-shadow: none;
+            cursor: auto;
+        }
+
+        #menu-nav > div:hover{
+            background-color: #5BC0FF;
+            margin: 5px 0px;
+        }
+
+        /* hamberger menu */
+        #menu-nav{
+            /* filter: blur(2px); */
+            background-color: rgba(61,167,232, 1);          
+        }
+
+        #description-question-1,#description-question-2,#description-question-3,#description-question-4{
+            text-align: justify;
+        }
+        #admin{
+            cursor: pointer !important;
+        }
+
+
+    /* //////////////////////////////////////////////////////////////// */
+    /* //////////////////////////////////////////////////////////////// */
+    /* //////////////////////////////////////////////////////////////// */
+    /* //////////////////////////////////////////////////////////////// */
+        /* products page */
+
+        #h1-main-products{
+            background-color: rgba(224, 223, 223, 0.7);
+            box-shadow: 5px 5px 20px rgba(224, 223, 223,0.7);
+            text-shadow: 4px 4px 18px rgb(70, 68, 68);
+        }
+
+        #right-main-products > img{
+            filter: drop-shadow(5px 5px 20px rgb(63, 63, 63));
+        }
+
+        #header-container-product{
+            background-image: linear-gradient(to bottom, #8ADAFF 50% , #fff);
+        }
+
+        /* product */
+        #shirBozqaleBare,#overall{
+            box-shadow: 5px 5px 20px #b7c1c7;
+        }
+
+        #img-container-product > img{
+            filter: drop-shadow(10px 10px 15px #0E91E3);
+        }
+
+        #shirBozqaleBare:hover{
+            box-shadow: 5px 5px 24px #0E91E3 !important;
+        }
+
+        #p-container-product > a:hover{
+            font-weight: bolder !important;
+            border-radius: 10px;
+            transform: translateY(-3px);
+        }
+
+        #download:hover{
+            box-shadow: 5px 5px 17px #0E91E3 ;
+            font-weight: bolder;
+        }
+
+
+    /* //////////////////////////////////////////////////////////////// */
+    /* //////////////////////////////////////////////////////////////// */
+    /* //////////////////////////////////////////////////////////////// */
+    /* //////////////////////////////////////////////////////////////// */
+        /* orders page */
+
+    }
+
+
+

@@ -1,0 +1,328 @@
+[05-Jan-2024 17:58:27 Asia/Tehran] PHP Warning:  include(/opt/lampp/htdocs/php/kako/src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 17:58:27 Asia/Tehran] PHP Warning:  include(/opt/lampp/htdocs/php/kako/src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 17:58:27 Asia/Tehran] PHP Warning:  include(): Failed opening '/opt/lampp/htdocs/php/kako/src/xouyel712/bootstrap/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 17:58:27 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 17:58:27 Asia/Tehran] PHP Warning:  Attempt to read property "dbname" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 17:58:27 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 17:58:27 Asia/Tehran] PHP Warning:  Attempt to read property "host" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 17:58:27 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 17:58:27 Asia/Tehran] PHP Warning:  Attempt to read property "user" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 17:58:27 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 17:58:27 Asia/Tehran] PHP Warning:  Attempt to read property "pass" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 17:58:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 19:55:53 Asia/Tehran] PHP Warning:  include(/opt/lampp/htdocs/php/kako/src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 19:55:53 Asia/Tehran] PHP Warning:  include(/opt/lampp/htdocs/php/kako/src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 19:55:53 Asia/Tehran] PHP Warning:  include(): Failed opening '/opt/lampp/htdocs/php/kako/src/xouyel712/bootstrap/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 19:55:53 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 19:55:53 Asia/Tehran] PHP Warning:  Attempt to read property "dbname" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 19:55:53 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 19:55:53 Asia/Tehran] PHP Warning:  Attempt to read property "host" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 19:55:53 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 19:55:53 Asia/Tehran] PHP Warning:  Attempt to read property "user" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 19:55:53 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 19:55:53 Asia/Tehran] PHP Warning:  Attempt to read property "pass" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 19:55:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 20:41:53 Asia/Tehran] PHP Warning:  include(/opt/lampp/htdocs/php/kako/src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:41:54 Asia/Tehran] PHP Warning:  include(/opt/lampp/htdocs/php/kako/src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:41:54 Asia/Tehran] PHP Warning:  include(): Failed opening '/opt/lampp/htdocs/php/kako/src/xouyel712/bootstrap/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:41:54 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:41:54 Asia/Tehran] PHP Warning:  Attempt to read property "dbname" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:41:54 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:41:54 Asia/Tehran] PHP Warning:  Attempt to read property "host" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:41:54 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:41:54 Asia/Tehran] PHP Warning:  Attempt to read property "user" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:41:54 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:41:54 Asia/Tehran] PHP Warning:  Attempt to read property "pass" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:41:54 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 20:43:50 Asia/Tehran] PHP Warning:  include(public_html/src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:43:50 Asia/Tehran] PHP Warning:  include(public_html/src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:43:50 Asia/Tehran] PHP Warning:  include(): Failed opening 'public_html/src/xouyel712/bootstrap/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:43:50 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:43:50 Asia/Tehran] PHP Warning:  Attempt to read property "dbname" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:43:50 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:43:50 Asia/Tehran] PHP Warning:  Attempt to read property "host" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:43:50 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:43:50 Asia/Tehran] PHP Warning:  Attempt to read property "user" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:43:50 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:43:50 Asia/Tehran] PHP Warning:  Attempt to read property "pass" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:43:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 20:47:11 Asia/Tehran] PHP Warning:  include(home3/tfeyqerg/public_html/src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:47:11 Asia/Tehran] PHP Warning:  include(home3/tfeyqerg/public_html/src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:47:11 Asia/Tehran] PHP Warning:  include(): Failed opening 'home3/tfeyqerg/public_html/src/xouyel712/bootstrap/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:47:11 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:47:11 Asia/Tehran] PHP Warning:  Attempt to read property "dbname" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:47:11 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:47:11 Asia/Tehran] PHP Warning:  Attempt to read property "host" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:47:11 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:47:11 Asia/Tehran] PHP Warning:  Attempt to read property "user" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:47:11 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:47:11 Asia/Tehran] PHP Warning:  Attempt to read property "pass" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:47:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 20:57:00 Asia/Tehran] PHP Warning:  include(home3/tfeyqerg/public_html/src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:57:00 Asia/Tehran] PHP Warning:  include(home3/tfeyqerg/public_html/src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:57:00 Asia/Tehran] PHP Warning:  include(): Failed opening 'home3/tfeyqerg/public_html/src/xouyel712/bootstrap/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:57:00 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:00 Asia/Tehran] PHP Warning:  Attempt to read property "dbname" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:00 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:00 Asia/Tehran] PHP Warning:  Attempt to read property "host" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:00 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:00 Asia/Tehran] PHP Warning:  Attempt to read property "user" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:00 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:00 Asia/Tehran] PHP Warning:  Attempt to read property "pass" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 20:57:08 Asia/Tehran] PHP Warning:  include(./src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:57:08 Asia/Tehran] PHP Warning:  include(./src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:57:08 Asia/Tehran] PHP Warning:  include(): Failed opening './src/xouyel712/bootstrap/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:57:08 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:08 Asia/Tehran] PHP Warning:  Attempt to read property "dbname" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:08 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:08 Asia/Tehran] PHP Warning:  Attempt to read property "host" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:08 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:08 Asia/Tehran] PHP Warning:  Attempt to read property "user" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:08 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:08 Asia/Tehran] PHP Warning:  Attempt to read property "pass" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 20:57:52 Asia/Tehran] PHP Warning:  include(src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:57:52 Asia/Tehran] PHP Warning:  include(src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:57:52 Asia/Tehran] PHP Warning:  include(): Failed opening 'src/xouyel712/bootstrap/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:57:52 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:52 Asia/Tehran] PHP Warning:  Attempt to read property "dbname" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:52 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:52 Asia/Tehran] PHP Warning:  Attempt to read property "host" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:52 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:52 Asia/Tehran] PHP Warning:  Attempt to read property "user" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:52 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:52 Asia/Tehran] PHP Warning:  Attempt to read property "pass" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:57:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 20:58:12 Asia/Tehran] PHP Warning:  include(src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:58:12 Asia/Tehran] PHP Warning:  include(src/xouyel712/bootstrap/config.php): Failed to open stream: No such file or directory in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:58:12 Asia/Tehran] PHP Warning:  include(): Failed opening 'src/xouyel712/bootstrap/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 4
+[05-Jan-2024 20:58:12 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:58:12 Asia/Tehran] PHP Warning:  Attempt to read property "dbname" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:58:12 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:58:12 Asia/Tehran] PHP Warning:  Attempt to read property "host" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:58:12 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:58:12 Asia/Tehran] PHP Warning:  Attempt to read property "user" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:58:12 Asia/Tehran] PHP Warning:  Undefined variable $kako in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:58:12 Asia/Tehran] PHP Warning:  Attempt to read property "pass" on null in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 8
+[05-Jan-2024 20:58:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 20:59:37 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 21:00:37 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 21:00:40 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 21:01:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 21:02:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[05-Jan-2024 21:03:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function diePage() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php:13
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php on line 13
+[06-Jan-2024 13:09:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home3/tfeyqerg/public_html/src/xouyel712/libs/helpers.php:41
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(6): SiteUrl('auth.php')
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/libs/helpers.php on line 41
+[06-Jan-2024 13:10:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home3/tfeyqerg/public_html/src/xouyel712/libs/helpers.php:41
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(6): SiteUrl('auth.php')
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/libs/helpers.php on line 41
+[06-Jan-2024 13:10:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home3/tfeyqerg/public_html/src/xouyel712/libs/helpers.php:41
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(6): SiteUrl('auth.php')
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/libs/helpers.php on line 41
+[06-Jan-2024 13:10:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home3/tfeyqerg/public_html/src/xouyel712/libs/helpers.php:41
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(6): SiteUrl('auth.php')
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/libs/helpers.php on line 41
+[06-Jan-2024 13:10:57 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 6
+[06-Jan-2024 13:10:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_PATH" in /home3/tfeyqerg/public_html/src/xouyel712/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 9
+[06-Jan-2024 13:12:04 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 6
+[06-Jan-2024 13:12:04 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 49
+[06-Jan-2024 13:12:40 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 6
+[06-Jan-2024 13:12:40 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 49
+[06-Jan-2024 13:12:44 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 6
+[06-Jan-2024 13:15:19 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 6
+[06-Jan-2024 13:18:19 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 6
+[06-Jan-2024 13:18:21 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 6
+[06-Jan-2024 13:19:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/config.php:58
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php(4): include()
+#1 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include('/home3/tfeyqerg...')
+#2 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/config.php on line 58
+[06-Jan-2024 13:20:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/config.php:64
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/init.php(4): include()
+#1 /home3/tfeyqerg/public_html/src/xouyel712/index.php(4): include('/home3/tfeyqerg...')
+#2 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/bootstrap/config.php on line 64
+[06-Jan-2024 13:21:06 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 6
+[06-Jan-2024 13:22:08 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 6
+[06-Jan-2024 13:22:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 6
+[06-Jan-2024 13:23:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 6
+[06-Jan-2024 13:26:41 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 49
+[06-Jan-2024 13:27:28 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 49
+[06-Jan-2024 13:27:47 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 49
+[06-Jan-2024 13:27:56 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 108
+[06-Jan-2024 13:30:22 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 108
+[06-Jan-2024 13:31:07 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 49
+[06-Jan-2024 13:31:13 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 108
+[06-Jan-2024 13:31:44 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 108
+[06-Jan-2024 13:32:00 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 108
+[06-Jan-2024 13:42:32 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 104
+[06-Jan-2024 13:42:39 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 108
+[06-Jan-2024 13:43:12 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 49
+[06-Jan-2024 13:44:04 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 49
+[06-Jan-2024 13:46:50 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 104
+[06-Jan-2024 13:47:16 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 104
+[06-Jan-2024 13:47:33 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 104
+[06-Jan-2024 13:48:49 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 49
+[06-Jan-2024 13:50:05 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 50
+[06-Jan-2024 13:51:31 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 50
+[06-Jan-2024 13:52:09 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 50
+[06-Jan-2024 13:52:11 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 50
+[06-Jan-2024 13:52:25 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 50
+[06-Jan-2024 13:53:30 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 50
+[06-Jan-2024 13:53:51 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 50
+[06-Jan-2024 13:56:16 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 8
+[06-Jan-2024 13:58:20 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 50
+[06-Jan-2024 14:00:15 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 51
+[06-Jan-2024 14:00:24 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 73
+[06-Jan-2024 14:01:04 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 73
+[06-Jan-2024 14:02:23 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 73
+[06-Jan-2024 14:04:00 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 73
+[06-Jan-2024 14:04:38 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 73
+[06-Jan-2024 14:04:48 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 73
+[06-Jan-2024 14:05:00 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 73
+[06-Jan-2024 14:05:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 73
+[06-Jan-2024 14:07:12 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 51
+[06-Jan-2024 14:09:28 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 74
+[06-Jan-2024 14:09:49 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 74
+[06-Jan-2024 14:10:21 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 74
+[06-Jan-2024 14:10:42 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 74
+[06-Jan-2024 14:11:00 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 74
+[06-Jan-2024 14:12:32 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 74
+[06-Jan-2024 14:13:51 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 74
+[06-Jan-2024 19:41:53 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 51
+[06-Jan-2024 19:45:13 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 51
+[06-Jan-2024 19:46:36 Asia/Tehran] PHP Warning:  Undefined variable $action in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 51
+[06-Jan-2024 19:47:07 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 50
+[06-Jan-2024 19:47:07 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 51
+[06-Jan-2024 19:47:31 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 50
+[06-Jan-2024 19:47:31 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 52
+[06-Jan-2024 19:47:34 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 50
+[06-Jan-2024 19:47:34 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 52
+[06-Jan-2024 19:47:51 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 50
+[06-Jan-2024 19:47:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function var_dum() in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php:51
+Stack trace:
+#0 /home3/tfeyqerg/public_html/src/xouyel712/index.php(9): include()
+#1 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 51
+[06-Jan-2024 19:48:20 Asia/Tehran] PHP Parse error:  Unmatched '}' in /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php on line 52
+[06-Jan-2024 19:48:38 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 110
+[06-Jan-2024 19:48:47 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 110
+[06-Jan-2024 19:50:41 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 110
+[06-Jan-2024 19:50:53 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 110
+[06-Jan-2024 19:54:11 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 74
+[06-Jan-2024 19:55:31 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 110
+[06-Jan-2024 20:16:39 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 74
+[06-Jan-2024 20:17:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 110
+[06-Jan-2024 20:17:34 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 110
+[06-Jan-2024 20:23:17 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 75
+[06-Jan-2024 20:23:31 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 75
+[06-Jan-2024 20:24:01 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 110
+[06-Jan-2024 20:25:52 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 20:28:34 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 20:28:58 Asia/Tehran] PHP Fatal error:  Cannot declare class getLogin, because the name is already in use in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 23
+[06-Jan-2024 20:30:50 Asia/Tehran] PHP Fatal error:  Cannot declare class getLogin, because the name is already in use in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 23
+[06-Jan-2024 20:30:55 Asia/Tehran] PHP Fatal error:  Cannot declare class getLogin, because the name is already in use in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 23
+[06-Jan-2024 20:32:11 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 20:32:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "getLogin" not found in /home3/tfeyqerg/public_html/src/xouyel712/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tfeyqerg/public_html/src/xouyel712/index.php on line 18
+[06-Jan-2024 20:33:02 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 20:33:51 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 20:33:59 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 20:34:13 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 20:34:22 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 20:35:33 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 20:36:23 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 21:42:06 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 21:42:46 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 21:44:35 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 22:03:33 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 112
+[06-Jan-2024 22:05:19 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 111
+[06-Jan-2024 22:05:49 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 111
+[06-Jan-2024 22:06:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 111
+[06-Jan-2024 22:07:46 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 111
+[06-Jan-2024 22:08:15 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 111
+[06-Jan-2024 22:10:09 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/index.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 111
+[06-Jan-2024 23:49:30 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 111
+[06-Jan-2024 23:50:15 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 111
+[06-Jan-2024 23:59:28 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 111
+[07-Jan-2024 00:00:35 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 90
+[07-Jan-2024 00:02:18 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 55
+[07-Jan-2024 00:03:37 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 110
+[07-Jan-2024 00:03:58 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tfeyqerg/public_html/src/xouyel712/tpl/admin.php:1) in /home3/tfeyqerg/public_html/src/xouyel712/libs/lib-auth.php on line 110
